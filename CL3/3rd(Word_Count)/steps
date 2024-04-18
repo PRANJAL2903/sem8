@@ -1,0 +1,2 @@
+python word_count.py x.txt
+python character_count.py x.txt
