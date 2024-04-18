@@ -1,0 +1,4 @@
+3 different terminals
+python -m Pyro4.naming
+python server.py
+python client.py
